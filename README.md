@@ -14,3 +14,4 @@ See the textbook for more instructions.
 
 
 _Troubleshooting:_ If you don't see any output, check where you are in the terminal.  Make sure you can see the `hello.js` file when you run the `ls` command.
+# LaunchCode
